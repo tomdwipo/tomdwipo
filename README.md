@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate iOS & Flutter developer from Indonesia</h3>
+<h3 align="center">A passionate Building Tech Product from Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdwipo" alt="tomdwipo" /></a> </p>
 
-- 💬 Ask me about **iOS, Swift, Flutter, Dart**
+- 💬 Ask me about **iOS, Swift, Flutter, Dart, Angular, Android, Compose, GO, Database**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
