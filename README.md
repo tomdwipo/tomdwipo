@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomdwipo" alt="tomdwipo" /></a> </p>
 
-- 💬 Ask me about **iOS, Swift, Flutter, Dart, Angular, Android, Compose, GO, Database**
+- 💬 Ask me about **iOS, Swift, Android, Compose, Agent**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
